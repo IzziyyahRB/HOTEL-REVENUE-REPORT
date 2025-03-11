@@ -1,5 +1,5 @@
 # HOTEL-REVENUE-REPORT
-This is a mini-SQL project showing basic Data cleaning and Exploratory Data Analysis with SQL and visualizations from this data with Power Bi. This repo consists of an Excel file, SQL query file and Power Bi report file in pdf format.
+This is an SQL project showing Data cleaning and Exploratory Data Analysis with SQL and visualizations from this data with Power Bi. This repo consists of an Excel file, SQL query file and Power Bi report file in pdf format.
 
 Presented with a hotel’s data in an excel spreadsheet, I was to carry out the following tasks:
 -	Build a database with the excel dataset in an SQL server.
